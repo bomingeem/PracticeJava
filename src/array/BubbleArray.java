@@ -1,3 +1,5 @@
+package array;
+
 public class BubbleArray {
     //버블정렬 알고리즘
     public static void main(String[] args) {

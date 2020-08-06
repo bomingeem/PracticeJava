@@ -1,3 +1,5 @@
+package array;
+
 //[5-11]
 public class CopyEx {
     public static void main(String[] args) {

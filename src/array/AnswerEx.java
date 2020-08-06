@@ -1,3 +1,5 @@
+package array;
+
 //[5-8]
 public class AnswerEx {
     public static void main(String[] args) {

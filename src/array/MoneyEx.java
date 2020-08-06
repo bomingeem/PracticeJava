@@ -1,3 +1,5 @@
+package array;
+
 //[5-6]
 public class MoneyEx {
     public static void main(String[] args) {

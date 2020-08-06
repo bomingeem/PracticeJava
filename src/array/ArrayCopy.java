@@ -1,3 +1,5 @@
+package array;
+
 public class ArrayCopy {
     public static void main(String[] args) {
         //배열의 복사
